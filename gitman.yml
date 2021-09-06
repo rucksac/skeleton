@@ -1,0 +1,14 @@
+location: vendor
+sources:
+  - repo: https://github.com/odoo/odoo
+    name: odoo
+    rev: 14.0
+
+  # 3rd party addon repos...
+  # - repo: https://github.com/OCA/project
+  #   name: OCA--project
+  #   rev: 14.0
+  #   sparse_paths:
+  #     - project_key
+  #     - project_list
+  #     - project_tag
